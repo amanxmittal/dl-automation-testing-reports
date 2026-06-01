@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2026-06-01",
+    "label": "Mon, Jun 01 2026",
+    "path": "reports/2026/06/01/report.html",
+    "pass": 80,
+    "fail": 11,
+    "skip": 9,
+    "total": 100
+  },
+  {
+    "date": "2026-05-25",
+    "label": "Mon, May 25 2026",
+    "path": "reports/2026/05/25/report.html",
+    "pass": 81,
+    "fail": 14,
+    "skip": 9,
+    "total": 104
+  },
+  {
+    "date": "2026-05-19",
+    "label": "Tue, May 19 2026",
+    "path": "reports/2026/05/19/report.html",
+    "pass": 77,
+    "fail": 19,
+    "skip": 12,
+    "total": 108
+  },
+  {
+    "date": "2026-05-15",
+    "label": "Fri, May 15 2026",
+    "path": "reports/2026/05/15/report.html",
+    "pass": 75,
+    "fail": 19,
+    "skip": 12,
+    "total": 106
+  }
+]
